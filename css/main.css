@@ -46,3 +46,14 @@ video {
 /* ====================================
 // base rules
 // ==================================== */
+
+/* mon code */
+.section-1 {
+  background-color: red;
+}
+
+.box {
+  background: blue;
+}
+
+/* mon code */
