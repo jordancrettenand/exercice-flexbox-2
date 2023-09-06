@@ -49,11 +49,50 @@ video {
 
 /* mon code */
 .section-1 {
-  background-color: red;
+  background-color: lightseagreen;
+  display: flex;
+  flex-direction: row;
+  padding: 12px;
+}
+
+.section-2 {
+  background-color: lightsteelblue;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 12px;
+}
+
+.section-3 {
+  background-color: lawngreen;
+  display: flex;
+  flex-direction: row;
+  padding: 12px;
+}
+
+.section-4 {
+  background-color: lightsalmon;
+  display: flex;
+  flex-direction: row;
+  padding: 12px;
+}
+
+.section-5 {
+  background-color: lightcoral;
+  display: flex;
+  flex-direction: row;
+  padding: 12px;
 }
 
 .box {
-  background: blue;
+  background: gray;
+  width: 75px;
+  height: 75px;
+  text-align: center;
+  line-height: 75px;
+  font-weight: bold;
+  font-size: 12px;
+  border: 2px dotted black;
 }
 
 /* mon code */
